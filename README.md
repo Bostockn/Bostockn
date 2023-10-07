@@ -3,7 +3,7 @@
 
 - <b> [Conducting A Security Audit](https://github.com/Bostockn/Security-Audit/blob/main/README.md) </b>
  
-<h2> 🧐 Certifications </h2>
+<h2> 🧐 Certifications </h2> 
  
 - <b> [Foundations of CyberSecurity](https://www.coursera.org/account/accomplishments/verify/8LXR663XNJCN) </b>
 - <b> </b>
