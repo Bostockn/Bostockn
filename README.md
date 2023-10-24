@@ -7,7 +7,7 @@
  
 - <b> [Foundations of CyberSecurity](https://www.coursera.org/account/accomplishments/verify/8LXR663XNJCN) </b>
 - <b>[Play It Safe: Manage Security Risks  ](https://www.coursera.org/account/accomplishments/verify/HUVUTH68EUXG)</b>
- 
+- <b>[Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/XTEBARWFPTVU) 
  
 <h2> 🤳 Connect with me:</h2>
  
